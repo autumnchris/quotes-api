@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/autumnchris/quotes-api/issues"
   },
-  "homepage": "https://github.com/autumnchris/quotes-api#readme"
+  "homepage": "https://github.com/autumnchris/quotes-api#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
 }
