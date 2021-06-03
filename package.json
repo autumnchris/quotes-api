@@ -1,0 +1,21 @@
+{
+  "name": "quotes-api",
+  "version": "1.0.0",
+  "description": "An API that gets an array of several influential and motivational quotes along with their sources.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autumnchris/quotes-api.git"
+  },
+  "keywords": [],
+  "author": "autumnchris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/autumnchris/quotes-api/issues"
+  },
+  "homepage": "https://github.com/autumnchris/quotes-api#readme"
+}
