@@ -14,3 +14,7 @@ An API that gets an array of various influential and motivational quotes along w
 * [Normalize.css](https://necolas.github.io/normalize.css)
 * [Google Fonts](https://fonts.google.com)
 * [nodemon](https://nodemon.io)
+
+## Demo
+
+View project demo at [https://autumnchris-quotes.herokuapp.com](https://autumnchris-quotes.herokuapp.com).

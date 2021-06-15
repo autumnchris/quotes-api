@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/autumnchris/quotes-api/issues"
   },
-  "homepage": "https://github.com/autumnchris/quotes-api#readme",
+  "homepage": "https://autumnchris-quotes.herokuapp.com",
   "dependencies": {
     "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
