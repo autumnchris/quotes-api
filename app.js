@@ -1,5 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
+const cors = require('cors');
 require('dotenv').config();
 const indexRouter = require('./routes/index');
 const apiRouter = require('./routes/api');
@@ -14,6 +15,11 @@ mongoose.connect(process.env.MONGO_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
+
+app.use(cors({
+  origin: '*',
+  methods: [ 'GET' ]
+}));
 
 app.use(express.static(`${__dirname}/public`));
 
