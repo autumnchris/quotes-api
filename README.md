@@ -18,3 +18,28 @@ An API that gets an array of various influential and motivational quotes along w
 ## Demo
 
 View project demo at [https://autumnchris-quotes.herokuapp.com](https://autumnchris-quotes.herokuapp.com).
+
+## Instructions
+
+After cloning and navigating to the repository in your command line, install the NPM packages.
+```
+npm install
+```
+
+Create a `.env` file in the root of the repository and add the following variables:
+```
+MONGO_URI=<your-mongodb-uri>
+```
+
+Run the following script in your command line if starting the repository in development mode.
+```
+npm run dev
+```
+
+Run the repository in production mode in your command line.
+Run the following script in your command line if starting the repository in development mode.
+```
+npm start
+```
+
+Go to `http://localhost:3000` in your browser.
