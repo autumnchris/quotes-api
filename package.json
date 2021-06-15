@@ -1,7 +1,7 @@
 {
   "name": "quotes-api",
   "version": "1.0.0",
-  "description": "An API that gets an array of several influential and motivational quotes along with their sources.",
+  "description": "An API that gets an array of various influential and motivational quotes along with their sources. Every quote has been custom selected by the project owner.",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app",
@@ -19,8 +19,10 @@
   },
   "homepage": "https://github.com/autumnchris/quotes-api#readme",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.12.12"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
