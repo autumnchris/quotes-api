@@ -1,6 +1,6 @@
 # Quotes API
 
-An API that gets an array of various influential and motivational quotes along with their sources. Every quote has been custom selected by the project owner.
+An Express.js API that gets an array of various influential and motivational quotes along with their sources. Every quote has been custom selected by the project owner.
 
 ---
 
