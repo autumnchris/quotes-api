@@ -20,10 +20,11 @@
   "homepage": "https://autumnchris-quotes.herokuapp.com",
   "dependencies": {
     "cors": "^2.8.5",
-    "dotenv": "^10.0.0",
+    "dotenv": "^16.0.0",
     "ejs": "^3.1.6",
     "express": "^4.17.1",
-    "mongoose": "^5.12.12"
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^6.2.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
