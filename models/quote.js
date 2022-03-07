@@ -1,14 +1,14 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
-const QuoteSchema = Schema({
+const QuoteSchema = new Schema({
   quote: {
     type: String,
-    required: true
+    required: [true, 'The quote must be included.']
   },
   source: {
     type: String,
-    required: true
+    required: [true, 'The source of the quote must be included.']
   }
 });
 
