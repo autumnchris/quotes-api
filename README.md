@@ -17,7 +17,7 @@ An Express.js API that gets an array of various influential and motivational quo
 
 ## Demo
 
-View project demo at [https://autumnchris-quotes.herokuapp.com](https://autumnchris-quotes.herokuapp.com).
+View project demo at [https://autumnchris-quotes.herokuapp.com/api](https://autumnchris-quotes.herokuapp.com/api).
 
 ## Instructions
 
