@@ -10,9 +10,11 @@ An Express.js API that gets an array of various influential and motivational quo
 * [MongoDB](https://www.mongodb.com)
 * CSS3
 * [EJS](https://ejs.co)
+* JavaScript
 * [dotenv](https://github.com/motdotla/dotenv)
 * [Normalize.css](https://necolas.github.io/normalize.css)
 * [Google Fonts](https://fonts.google.com)
+* [Font Awesome](https://fontawesome.com)
 * [nodemon](https://nodemon.io)
 
 ## Demo
