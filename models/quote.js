@@ -10,6 +10,9 @@ const QuoteSchema = new Schema({
     type: String,
     required: [true, 'The source of the quote must be included.']
   }
+},
+{
+  strictQuery: true
 });
 
 const Quote = mongoose.model('Quote', QuoteSchema);
