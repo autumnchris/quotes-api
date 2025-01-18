@@ -6,11 +6,14 @@ An Express.js API that gets an array of various influential and motivational quo
 
 ## Built With
 * [Express.js](https://expressjs.com)
+* [Node.js](https://nodejs.org/en)
 * [Mongoose](https://mongoosejs.com)
 * [MongoDB](https://www.mongodb.com)
 * CSS3
+* HTML5
 * [EJS](https://ejs.co)
 * JavaScript
+* Vanilla JS
 * [dotenv](https://github.com/motdotla/dotenv)
 * [Normalize.css](https://necolas.github.io/normalize.css)
 * [Google Fonts](https://fonts.google.com)
