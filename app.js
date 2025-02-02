@@ -19,7 +19,7 @@ mongoose.connect(process.env.MONGO_URI, {
 });
 
 app.use(cors({
-  origin: '*',
+  origin: ['https://autumnchris.github.io', 'http://localhost:8080'],
   methods: [ 'GET' ]
 }));
 
